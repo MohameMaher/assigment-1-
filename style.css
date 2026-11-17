@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.home{
+    background-image: url(/WhatsApp\ Image\ 2026-11-10\ at\ 10.46.41\ PM.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+.home-content{
+    text-align: center;
+    margin-top: 350px;
+    color: white;
+    
+}
+.home-content h1{
+    font-size: 60px;
+    color: orange;
+    padding-block: 10px;
+}
+.home-content h3{
+    font-size: 30px;
+    color: white;
+    padding-block: 10px;
+}
+button{
+    padding-inline: 20px;
+    padding-block: 9px;
+    border: 2px solid orange;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+.layer{
+    background-color: rgba(0, 0, 0, 0.661);
+    height: 100vh;
+    overflow: auto;
+}
